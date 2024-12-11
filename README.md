@@ -144,4 +144,4 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 ## Kontak
 
-Jika Anda memiliki pertanyaan atau saran, silakan hubungi saya di [email@example.com](mailto:email@example.com).
+Jika Anda memiliki pertanyaan atau saran, silakan hubungi saya di [admin@unreliablecode.net](mailto:admin@unreliablecode.net).
